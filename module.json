@@ -8,7 +8,8 @@
     "system": ["ezd6"],
     "compatibility": {
         "minimum": "10",
-        "verified": "10"
+        "verified": "10",
+        "maximum": "11"
       },
     "scripts": ["ezd6-strike-hud.js"],
     "dependencies": [],
