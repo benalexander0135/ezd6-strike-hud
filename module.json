@@ -14,6 +14,6 @@
     "scripts": ["ezd6-strike-hud.js"],
     "dependencies": [],
     "url": "https://github.com/xaukael/ezd6-strike-hud/",
-    "manifest": "https://github.com/xaukael/ezd6-strike-hud/raw/main/module.json",
-    "download": "https://github.com/xaukael/ezd6-strike-hud/raw/main/ezd6-strike-hud.zip"
+    "manifest": "https://github.com/benalexander0135/ezd6-strike-hud/raw/main/module.json",
+    "download": "https://github.com/benalexander0135/ezd6-strike-hud/raw/main/ezd6-strike-hud.zip"
 }
